@@ -1,0 +1,3 @@
+[submodule "extensions/cc-extension-on-my-script"]
+	path = extensions/cc-extension-on-my-script
+	url = https://github.com/BluesquallGames/cc-extension-oh-my-script

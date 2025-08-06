@@ -1,0 +1,13 @@
+{
+  "name": "NewProject",
+  "type": "module",
+  "uuid": "6688c680-b3bd-4d17-aea0-4ebb4b79a591",
+  "creator": {
+    "version": "3.8.6"
+  },
+  "packageManager": "pnpm@10.12.3+sha512.467df2c586056165580ad6dfb54ceaad94c5a30f80893ebdec5a44c5aa73c205ae4a5bb9d5ed6bb84ea7c249ece786642bbb49d06a307df218d03da41c317417",
+  "dependencies": {
+    "@dimforge/rapier2d": "^0.18.2",
+    "buffer": "^6.0.3"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "scripts": {
+    "generate": "emcmake cmake -S . -B build",
+    "build": "cmake --build build"
+  }
+}

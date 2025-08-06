@@ -1,0 +1,14 @@
+{
+  "include": [".", "wasm-example.ts", "index.ts"],
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "nodenext",
+    "moduleResolution": "nodenext",
+    "experimentalDecorators": true,
+    "rootDir": ".",
+    "types": [
+      "../temp/declarations/cc.d.ts",
+      "../temp/declarations/cc.env.d.ts",
+    ],
+  },
+}

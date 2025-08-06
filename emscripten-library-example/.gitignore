@@ -1,0 +1,4 @@
+build/**/*
+!build/emscripten-library-example.js
+!build/emscripten-library-example.wasm
+!build/emscripten-library-example.d.ts
